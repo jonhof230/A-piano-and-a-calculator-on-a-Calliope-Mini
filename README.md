@@ -1,7 +1,12 @@
 Created with https://lab.open-roberta.org/.
+Version 1:
 
-1. Put the hexcode file in the memory of a Calliope Mini (old version)
+1. Put the hexcode file in the memory of a Calliope Mini
 
-3. Put the "Version" X file in the memory of a Calliope Mini (new version).
+Version X:
 
-4. Edit the "Version" X file on https://lab.open-roberta.org/.
+1. Upload the "Version" X file on https://lab.open-roberta.org/.
+
+2. Edit the "Version" X file on https://lab.open-roberta.org/.
+
+3. Download it as hexcode and put the hexcode file in the memory of a Calliope Mini.
